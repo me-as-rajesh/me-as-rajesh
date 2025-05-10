@@ -1,7 +1,9 @@
+<!-- Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;A+passionate+Java+developer;From+Pondicherry,+India&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22&background=0D1117" alt="Typing SVG" />
 </p>
 
+<!-- Email & Views -->
 <p align="center">
   <a href="mailto:srijesh2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-srijesh2001@gmail.com-6e40c9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
@@ -9,63 +11,59 @@
   <img src="https://komarev.com/ghpvc/?username=me-as-rajesh&style=for-the-badge&label=VIEWS&color=6e40c9&labelColor=0D1117" alt="Profile views">
 </p>
 
-<br>
-
+<!-- GitHub Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=me-as-rajesh&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats">
 </p>
 
-<br>
+<!-- Table Layout for About Me and Focused Areas -->
+<h3 align="center">👋 About Me & 🚀 What I'm Currently Focused On</h3>
 
-### 👋 About Me
+<!-- About Me Table -->
+<h3 align="center">👋 About Me</h3>
 
-Hello! I'm **Rajesh Selvaraj**, a Java developer from the beautiful **Pondicherry, India**.  
-I’m passionate about writing clean, efficient code and always eager to explore new technologies.  
-Currently, I’m diving deep into **modern web development** and love contributing to open-source projects.
-
----
-
-### 🚀 What I'm Currently Focused On:
-
-- 💻 Building robust and scalable applications with **Java**
-- 🌐 Learning modern **web development** (HTML, CSS, JavaScript, and libraries/frameworks)
-- 🤝 Contributing to open-source projects that help me grow
-- 🌱 Sharpening my problem-solving skills through practice and exploration
-
----
-
-### 📬 Let's Connect!
-
-<p align="left">
-  <a href="mailto:srijesh2001@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&color=6e40c9" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      Hello! I'm <strong>Rajesh Selvaraj</strong>, a Java developer from <strong>Pondicherry, India</strong>.<br><br>
+      I’m passionate about writing clean, efficient code and always eager to explore new technologies.<br><br>
+      Currently diving deep into <strong>modern web development</strong> and love contributing to <strong>open-source projects</strong>.
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🎉 Fun Fact
+<!-- What I'm Focused On Table -->
+<h3 align="center">🚀 What I'm Currently Focused On</h3>
 
-I enjoy experimenting with **new recipes** in the kitchen as much as I do with **code**! 🍳
+<table align="center">
+  <tr>
+    <td align="center">
+      💻 Building scalable applications with <strong>Java</strong><br><br>
+      🌐 Learning <strong>HTML, CSS, JavaScript</strong>, and frameworks<br><br>
+      🤝 Contributing to open-source projects<br><br>
+      🌱 Improving problem-solving skills through practice
+    </td>
+  </tr>
+</table>
 
----
 
-### 📊 My GitHub Stats:
+<!-- GitHub Stats -->
+<h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=me-as-rajesh&show_icons=true&theme=github_dark&border_radius=15" alt="Rajesh's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=me-as-rajesh&show_icons=true&theme=github_dark&border_radius=15" alt="GitHub Stats">
 </p>
 
----
-
-### 🧠 Most Used Languages (Compact View):
+<!-- Most Used Languages -->
+<h3 align="center">🧠 Most Used Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-as-rajesh&layout=compact&theme=github_dark&border_radius=15" alt="Top Languages Circle View">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-as-rajesh&layout=compact&theme=github_dark&border_radius=15" alt="Top Languages">
 </p>
 
----
-
+<!-- Footer -->
 <p align="center">
   <sub>🕒 Last updated: May 10, 2025</sub><br>
   <sub>Generated with ❤️ by a helpful AI</sub>
